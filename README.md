@@ -17,7 +17,7 @@ It is important that for each of the following there be at least one AD with som
 
 Cross-area expertise with the Security and Web and Internet Transport Areas is also useful, as there are often dependencies between ART work and those areas, particularly with respect to authentication, confidentiality, privacy, network congestion issues, and newly evolving work in the Web and Internet Transport Area.
 
-ART ADs should be prepared to spend 50-75% of their time on IESG-related activities.
+ART ADs should be prepared to spend between 40% to 50% of their time on IESG-related activities, with bursts of work especially around IETF meeting time.
 
 ART ADs maintain and support the ART Area Review Team (artart). ARTART provides reviews on request and during Last Call that can be used by the ADs as input for their ballot positions.
 
