@@ -13,6 +13,8 @@ The ART Area works on the application layer and related protocols:
 
 The ART Area often discusses whether something is properly the realm of the IETF or "belongs" to other SDOs, as a result, the set of ART ADs needs to include the ability and experience to relate to a wide range of non-IETF organizations, such as the W3C, WHATWG, 3GPP, and the Unicode Consortium.
 
+ART ADs support working group chairs with liaison statements between SDOs in coordination with the IAB.
+
 It is important that for each of the following there be at least one AD with some understanding of it and an ability to find and leverage expertise on it when needed: internationalization; URI schemes; SIP, SDP and related services; RTP; media types; and email.
 
 Cross-area expertise with the Security and Web and Internet Transport Areas is also useful, as there are often dependencies between ART work and those areas, particularly with respect to authentication, confidentiality, privacy, network congestion issues, and newly evolving work in the Web and Internet Transport Area.
